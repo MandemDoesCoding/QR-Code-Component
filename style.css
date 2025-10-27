@@ -1,0 +1,16 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(213, 225, 239);
+}
+
+.component {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  height: 400px;
+  width: 400px;
+  padding: 100px;
+}
